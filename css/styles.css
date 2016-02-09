@@ -1,0 +1,9 @@
+ul {
+	font-size: 15px;
+	list-style-type: none;
+	color: red;
+}
+
+.newStyle {
+	color: blue;
+}
